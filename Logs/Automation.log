@@ -1,0 +1,138 @@
+08/12/2021 11:52:13 PM - root - INFO: ****** Test_003 AddCustomer ******
+08/12/2021 11:52:13 PM - root - INFO: ****** Test_003 AddCustomer ******
+08/12/2021 11:52:13 PM - root - INFO: ****** Test_003 AddCustomer ******
+08/12/2021 11:52:13 PM - root - INFO: ****** Test_003 AddCustomer ******
+08/12/2021 11:52:13 PM - root - INFO: ****** Test_003 AddCustomer ******
+08/12/2021 11:52:13 PM - root - INFO: ****** Test_003 AddCustomer ******
+08/12/2021 11:52:30 PM - root - INFO: ******** Login Successful for add customer ********
+08/12/2021 11:52:30 PM - root - INFO: ******** Login Successful for add customer ********
+08/12/2021 11:52:30 PM - root - INFO: ******** Login Successful for add customer ********
+08/12/2021 11:52:30 PM - root - INFO: ******** Login Successful for add customer ********
+08/12/2021 11:52:30 PM - root - INFO: ******** Login Successful for add customer ********
+08/12/2021 11:52:30 PM - root - INFO: ******** Login Successful for add customer ********
+08/12/2021 11:52:30 PM - root - INFO: ***** Add customer test method starts ******
+08/12/2021 11:52:30 PM - root - INFO: ***** Add customer test method starts ******
+08/12/2021 11:52:30 PM - root - INFO: ***** Add customer test method starts ******
+08/12/2021 11:52:30 PM - root - INFO: ***** Add customer test method starts ******
+08/12/2021 11:52:30 PM - root - INFO: ***** Add customer test method starts ******
+08/12/2021 11:52:30 PM - root - INFO: ***** Add customer test method starts ******
+08/12/2021 11:52:38 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:38 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:38 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:38 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:38 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:38 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:38 PM - root - INFO: ********Verifying home page title**********
+08/12/2021 11:52:38 PM - root - INFO: ********Verifying home page title**********
+08/12/2021 11:52:38 PM - root - INFO: ********Verifying home page title**********
+08/12/2021 11:52:38 PM - root - INFO: ********Verifying home page title**********
+08/12/2021 11:52:38 PM - root - INFO: ********Verifying home page title**********
+08/12/2021 11:52:38 PM - root - INFO: ********Verifying home page title**********
+08/12/2021 11:52:45 PM - root - INFO: ******** Home page title is PASSED **********
+08/12/2021 11:52:45 PM - root - INFO: ******** Home page title is PASSED **********
+08/12/2021 11:52:45 PM - root - INFO: ******** Home page title is PASSED **********
+08/12/2021 11:52:45 PM - root - INFO: ******** Home page title is PASSED **********
+08/12/2021 11:52:45 PM - root - INFO: ******** Home page title is PASSED **********
+08/12/2021 11:52:45 PM - root - INFO: ******** Home page title is PASSED **********
+08/12/2021 11:52:52 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:52 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:52 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:52 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:52 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:52 PM - root - INFO: *********Test_001_Login******
+08/12/2021 11:52:52 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:52:52 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:52:52 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:52:52 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:52:52 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:52:52 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:53:10 PM - root - INFO: ******** Login is PASSED **********
+08/12/2021 11:53:10 PM - root - INFO: ******** Login is PASSED **********
+08/12/2021 11:53:10 PM - root - INFO: ******** Login is PASSED **********
+08/12/2021 11:53:10 PM - root - INFO: ******** Login is PASSED **********
+08/12/2021 11:53:10 PM - root - INFO: ******** Login is PASSED **********
+08/12/2021 11:53:10 PM - root - INFO: ******** Login is PASSED **********
+08/12/2021 11:53:13 PM - root - INFO: *********Test_002_DDT_Login******
+08/12/2021 11:53:13 PM - root - INFO: *********Test_002_DDT_Login******
+08/12/2021 11:53:13 PM - root - INFO: *********Test_002_DDT_Login******
+08/12/2021 11:53:13 PM - root - INFO: *********Test_002_DDT_Login******
+08/12/2021 11:53:13 PM - root - INFO: *********Test_002_DDT_Login******
+08/12/2021 11:53:13 PM - root - INFO: *********Test_002_DDT_Login******
+08/12/2021 11:53:13 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:53:13 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:53:13 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:53:13 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:53:13 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:53:13 PM - root - INFO: ********Verifying Valid Login**********
+08/12/2021 11:53:32 PM - root - INFO: Test Passed for row 2
+08/12/2021 11:53:32 PM - root - INFO: Test Passed for row 2
+08/12/2021 11:53:32 PM - root - INFO: Test Passed for row 2
+08/12/2021 11:53:32 PM - root - INFO: Test Passed for row 2
+08/12/2021 11:53:32 PM - root - INFO: Test Passed for row 2
+08/12/2021 11:53:32 PM - root - INFO: Test Passed for row 2
+08/12/2021 11:53:41 PM - root - INFO: *********** User Login is Passed for row 3
+08/12/2021 11:53:41 PM - root - INFO: *********** User Login is Passed for row 3
+08/12/2021 11:53:41 PM - root - INFO: *********** User Login is Passed for row 3
+08/12/2021 11:53:41 PM - root - INFO: *********** User Login is Passed for row 3
+08/12/2021 11:53:41 PM - root - INFO: *********** User Login is Passed for row 3
+08/12/2021 11:53:41 PM - root - INFO: *********** User Login is Passed for row 3
+08/12/2021 11:53:49 PM - root - INFO: *********** User Login is Passed for row 4
+08/12/2021 11:53:49 PM - root - INFO: *********** User Login is Passed for row 4
+08/12/2021 11:53:49 PM - root - INFO: *********** User Login is Passed for row 4
+08/12/2021 11:53:49 PM - root - INFO: *********** User Login is Passed for row 4
+08/12/2021 11:53:49 PM - root - INFO: *********** User Login is Passed for row 4
+08/12/2021 11:53:49 PM - root - INFO: *********** User Login is Passed for row 4
+08/12/2021 11:53:56 PM - root - INFO: *********** User Login is Passed for row 5
+08/12/2021 11:53:56 PM - root - INFO: *********** User Login is Passed for row 5
+08/12/2021 11:53:56 PM - root - INFO: *********** User Login is Passed for row 5
+08/12/2021 11:53:56 PM - root - INFO: *********** User Login is Passed for row 5
+08/12/2021 11:53:56 PM - root - INFO: *********** User Login is Passed for row 5
+08/12/2021 11:53:56 PM - root - INFO: *********** User Login is Passed for row 5
+08/12/2021 11:53:56 PM - root - INFO: DDT test is passed
+08/12/2021 11:53:56 PM - root - INFO: DDT test is passed
+08/12/2021 11:53:56 PM - root - INFO: DDT test is passed
+08/12/2021 11:53:56 PM - root - INFO: DDT test is passed
+08/12/2021 11:53:56 PM - root - INFO: DDT test is passed
+08/12/2021 11:53:56 PM - root - INFO: DDT test is passed
+08/12/2021 11:53:59 PM - root - INFO: ####### DDT Login Test is completed#######
+08/12/2021 11:53:59 PM - root - INFO: ####### DDT Login Test is completed#######
+08/12/2021 11:53:59 PM - root - INFO: ####### DDT Login Test is completed#######
+08/12/2021 11:53:59 PM - root - INFO: ####### DDT Login Test is completed#######
+08/12/2021 11:53:59 PM - root - INFO: ####### DDT Login Test is completed#######
+08/12/2021 11:53:59 PM - root - INFO: ####### DDT Login Test is completed#######
+08/12/2021 11:54:02 PM - root - INFO: *** Test_SearchCustomerByEmail_004 *****
+08/12/2021 11:54:02 PM - root - INFO: *** Test_SearchCustomerByEmail_004 *****
+08/12/2021 11:54:02 PM - root - INFO: *** Test_SearchCustomerByEmail_004 *****
+08/12/2021 11:54:02 PM - root - INFO: *** Test_SearchCustomerByEmail_004 *****
+08/12/2021 11:54:02 PM - root - INFO: *** Test_SearchCustomerByEmail_004 *****
+08/12/2021 11:54:02 PM - root - INFO: *** Test_SearchCustomerByEmail_004 *****
+08/12/2021 11:54:18 PM - root - INFO: *** User login is successful ***
+08/12/2021 11:54:18 PM - root - INFO: *** User login is successful ***
+08/12/2021 11:54:18 PM - root - INFO: *** User login is successful ***
+08/12/2021 11:54:18 PM - root - INFO: *** User login is successful ***
+08/12/2021 11:54:18 PM - root - INFO: *** User login is successful ***
+08/12/2021 11:54:18 PM - root - INFO: *** User login is successful ***
+08/12/2021 11:54:18 PM - root - INFO: *** Starting search by email ***
+08/12/2021 11:54:18 PM - root - INFO: *** Starting search by email ***
+08/12/2021 11:54:18 PM - root - INFO: *** Starting search by email ***
+08/12/2021 11:54:18 PM - root - INFO: *** Starting search by email ***
+08/12/2021 11:54:18 PM - root - INFO: *** Starting search by email ***
+08/12/2021 11:54:18 PM - root - INFO: *** Starting search by email ***
+08/12/2021 11:54:24 PM - root - INFO: ---- Test_SearchCustomerByName_005 ----
+08/12/2021 11:54:24 PM - root - INFO: ---- Test_SearchCustomerByName_005 ----
+08/12/2021 11:54:24 PM - root - INFO: ---- Test_SearchCustomerByName_005 ----
+08/12/2021 11:54:24 PM - root - INFO: ---- Test_SearchCustomerByName_005 ----
+08/12/2021 11:54:24 PM - root - INFO: ---- Test_SearchCustomerByName_005 ----
+08/12/2021 11:54:24 PM - root - INFO: ---- Test_SearchCustomerByName_005 ----
+08/12/2021 11:54:40 PM - root - INFO: --- User login is successful ---
+08/12/2021 11:54:40 PM - root - INFO: --- User login is successful ---
+08/12/2021 11:54:40 PM - root - INFO: --- User login is successful ---
+08/12/2021 11:54:40 PM - root - INFO: --- User login is successful ---
+08/12/2021 11:54:40 PM - root - INFO: --- User login is successful ---
+08/12/2021 11:54:40 PM - root - INFO: --- User login is successful ---
+08/12/2021 11:54:40 PM - root - INFO: --- Starting search by Name ---
+08/12/2021 11:54:40 PM - root - INFO: --- Starting search by Name ---
+08/12/2021 11:54:40 PM - root - INFO: --- Starting search by Name ---
+08/12/2021 11:54:40 PM - root - INFO: --- Starting search by Name ---
+08/12/2021 11:54:40 PM - root - INFO: --- Starting search by Name ---
+08/12/2021 11:54:40 PM - root - INFO: --- Starting search by Name ---
