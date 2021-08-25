@@ -1,1 +1,2 @@
-
+def payment(self):
+    pass

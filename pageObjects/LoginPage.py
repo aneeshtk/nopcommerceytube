@@ -1,6 +1,6 @@
 from selenium import webdriver
 class LoginPage:
-    er
+    
     def __init__(self,driver):
         self.driver=driver
 
